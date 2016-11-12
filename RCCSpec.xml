@@ -1,0 +1,11 @@
+<xml>
+<spec>
+ <name>RCC_DEFAULT</name>
+ <type>RCC_SPEC_DEFAULT</type>
+ <Material>Concrete</Material>
+ <Accuracy>STANDARD</Accuracy>
+ <Doors>TEAK</Doors>
+ <Lobby>STANDARD</Lobby>
+ <Parking>1</Parking>
+</spec>
+</xml>
